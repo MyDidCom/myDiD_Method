@@ -67,8 +67,8 @@ Example:
 }
 ```
 ### Off-chain DID Documents
-Les DID Documents off-chain sont générés dynamiquement à partir de la clé publique contenue dans l'identifiant DID.
-Ils sont retournés par le resolveur myDid si aucune donnée enregistrée on-chain n'est trouvée pour ce DID.
+Off-chain DID Documents are dynamically generated from the public key contained in the DID identifier. 
+They are returned by the myDid resolver if no on-chain data is found
 
 Exemple :
 ```
